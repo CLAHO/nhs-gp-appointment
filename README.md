@@ -1,4 +1,4 @@
-# Optimising NHS GP Appointments: Utilisation, Capacity & Attendance Analysis
+# Optimising NHS GP Appointments: Utilisation, Capacity & Attendance
 
 **Author: Suleiman Chun Lum Andy Ho**  
 LSE – Career Accelerator Data Analytics
